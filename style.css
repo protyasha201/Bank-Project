@@ -20,3 +20,27 @@ body{
     width: 100px;
     height: 50px;
 }
+
+#transaction-area{
+    display:none;
+}
+
+.deposit{
+    background-color: slateblue;
+}
+
+.withdraw{
+    background-color: lightsalmon;
+}
+
+.balance{
+    background-color: orange;
+}
+
+.status{
+    color: white;
+    padding: 50px;
+    border-radius: 10px;
+    margin: 0px 20px;
+    margin-bottom: 20px;
+}
